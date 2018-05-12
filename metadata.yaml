@@ -27,6 +27,8 @@ creator:
     - http://en.wikipedia.org/wiki/Gustave_Aimard
     - http://fr.wikipedia.org/wiki/Gustave_Aimard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44375#The-Bee-HuntersA-Tale-of-Adventure
 gutenberg_issued: '2013-12-06'
 gutenberg_type: Text
 identifiers:
